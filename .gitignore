@@ -3,5 +3,6 @@
 *.exe
 *.png
 build
+__pycache__
 managed_components
 venv
