@@ -1,0 +1,21 @@
+dependencies:
+  i2c-lcd1602:
+    component_hash: f144d8a10f8dbb5f75c5921bcf154d6e94d964ec66ba8e0722ce0060f5a6813e
+    source:
+      git: https://github.com/DavidAntliff/esp32-i2c-lcd1602
+      type: git
+    version: c9026dd74f63e64943321a4dea5f4ce9f8d9e9c5
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 4.4.0
+  smbus:
+    component_hash: 26913f29165a5efb1cb89024757a6d13c1cfe557dbaa874d06d3a14d525c21be
+    source:
+      git: https://github.com/DavidAntliff/esp32-smbus
+      type: git
+    version: 1bca026c4fe8d28f9cb76da30da05e8a70a8231f
+manifest_hash: 1f202c9fa3fb83cd81a6dc783a892d560c04faf279b9c5a5b306d5c3adc17b81
+target: esp32
+version: 1.0.0
